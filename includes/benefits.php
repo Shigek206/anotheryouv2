@@ -1,0 +1,6 @@
+<h1>The Benefits of Costmetic Tattoos</h1>
+<p>The benefits of this exciting procedure are being discovered by more and more women. Older women with poor eyesight or unsteady hands find permanent cosmetics most beneficial. Women who travel, swim or camp like the freedom of looking their best even under the most active conditions. Physically challenged people, those with allergies and just the everyday busy woman want to look their best. What could be better than to wake up looking as good in the morning as you do all day long? After reconstructive surgery from mastectomy, women can use permanent color techniques to create the illusion of areoles and nipples.</p>
+
+<p>Men and women with alopecia may want to create the look of eyebrows and eyelashes and to have it look as nature intended. Men may want permanent color to give the look of fuller eyebrows or to mask the effect of slight balding. Whatever procedures are desired, permanent color can create a polished look as well as something subtle and natural. Because it is permanent, many women choose to have a natural look and dress it up with traditional makeup for a more dramatic evening look.</p>
+
+<p>Schedule a consultation today! <a href="mailto:danette-permanentcosmetics@hotmail.com">email</a> or call <a href="tel:+1-206-354-0692">206.354.0692</a>.</p>

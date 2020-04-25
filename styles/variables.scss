@@ -1,0 +1,56 @@
+
+// DEFAULT BODY COLORS
+
+$body-bg:		#fff;
+$body-color:	#54585D;
+$body-font: 	1rem;
+
+$primary: $body-color;
+$white:	#fff;
+
+$header-color: #3B3A36;
+
+// BACKGROUND COLORS
+$bg-primary-color: #E1E8F0;
+$bg-accent-violet: #9068BE;
+$bg-accent-green: #8DE0CD;
+$bg-accent-green2: #73B7CC;
+$bg-accent-blue: #73B7CC;
+
+// STYLE ANCHOR ELEMENTS
+$link-color: #E62739;
+$link-font-size: 1.125rem;
+$link-hover-color: darken($link-color, 15%);
+
+// FONTS
+$font-family-script: 'Herr Von Muellerhoff', cursive;
+$font-family-serif: 'Lora', serif;
+$font-family-sans-serif: 'Montserrat', sans-serif;
+$font-family-secondary: 'Roboto', sans-serif;
+
+$font-weight-light:		300;
+$font-weight-normal:  	400;
+$font-weight-med:		500;
+$font-weight-semi:		600;
+$font-weight-bold:		800;	
+
+$h1-font-size:			2.25rem;
+$h2-font-size:			1.625rem;
+$h3-font-size:			1.8rem;
+$h4-font-size: 			1.125em;
+
+$screen-xs:	0;
+$screen-sm:	576px;
+$screen-md: 768px;
+$screen-lg:	992px;
+$screen-xl: 1200px;
+
+
+// CONTAINERS
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1170px
+);
