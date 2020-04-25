@@ -824,12 +824,14 @@ iframe {
 	@media (min-width: $screen-xs) {
 		h2 {
 			font-size: 1rem;
+			margin-bottom: 25px;
 		}
 	}
 
 	@media (min-width: $screen-sm) {
 		h2 {
 			font-size: 1.625rem;
+			margin-bottom: 50px;
 		}
 	}
 }

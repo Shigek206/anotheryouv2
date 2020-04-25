@@ -72,16 +72,7 @@
 
 <?php include 'includes/consult-main.php';?>
 
-<section class="instagram text-center">
-	<div class="container">
-		<div class="accent"></div>
-		<div class="row">
-			<div class="col-12">
-				<h2>@danettepermanentcosmetics</h2>
-			</div>
-		</div>
-	</div>
-</section>
+<?php include 'includes/instagram-feed.php';?>
 
 <?php include 'includes/footer.php';?>
 	
