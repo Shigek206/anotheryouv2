@@ -29,7 +29,7 @@ h2 {
 h3 {
   color: #3B3A36;
   font-family: "Montserrat", sans-serif;
-  font-size: 1.625rem;
+  font-size: 1.125em;
   font-weight: 500;
   text-transform: uppercase; }
 
@@ -237,31 +237,46 @@ span {
   padding: 5.6875rem 0; }
 
 .mh-bg-hp {
-  background-image: url("../istock/masthead-2020b.png"); }
+  background-image: url("../graphics/homepage-masthead.jpg"); }
 
 .mh-bg-sub-1 {
-  background-image: url("../graphics/masthead-hp.png");
+  background-image: url("../graphics/default-masthead.jpg");
   height: 300px; }
+  @media (min-width: 0) {
+    .mh-bg-sub-1 {
+      background-position: 40%; } }
 
 .mh-bg-sub-2 {
   background-image: url("../istock/testimonial-bg.png");
   height: 300px; }
 
 .mh-bg-sub-brow {
-  background-image: url("../istock/eyebrow-masthead.png");
+  background-image: url("../graphics/eyebrows-masthead.jpg");
   height: 300px; }
+  @media (min-width: 0) {
+    .mh-bg-sub-brow {
+      background-position: 40%; } }
 
 .mh-bg-sub-liner {
-  background-image: url("../istock/eyeliner-masthead.png");
+  background-image: url("../graphics/eyeliner-masthead.jpg");
   height: 300px; }
+  @media (min-width: 0) {
+    .mh-bg-sub-liner {
+      background-position: 40%; } }
 
 .mh-bg-sub-lip {
-  background-image: url("../istock/fulllip-masthead.png");
+  background-image: url("../graphics/fulllip-masthead.jpg");
   height: 300px; }
+  @media (min-width: 0) {
+    .mh-bg-sub-lip {
+      background-position: 50%; } }
 
 .mh-bg-sub-phallus {
-  background-image: url("../istock/phallus-masthead.png");
+  background-image: url("../graphics/phallo-masthead.jpg");
   height: 300px; }
+  @media (min-width: 0) {
+    .mh-bg-sub-phallus {
+      background-position: 50%; } }
 
 .intro {
   padding: 50px 0; }
@@ -455,23 +470,13 @@ iframe {
 
 .testimonials {
   padding: 70px 0;
-  position: relative;
-  background-size: cover;
-  background-repeat: no-repeat; }
+  position: relative; }
   .testimonials h2 {
     margin: 0 0 25px; }
   .testimonials p {
     font-size: 1.2rem;
     line-height: 28px;
     margin-bottom: 20px; }
-  @media (min-width: 0) {
-    .testimonials {
-      background-image: none;
-      background-position: 80%; } }
-  @media (min-width: 576px) {
-    .testimonials {
-      background-image: url("../istock/testimonial-bg-3.png");
-      background-position: 100%; } }
 
 .consult-cta {
   background-color: #8DE0CD;
@@ -525,7 +530,9 @@ iframe {
   @media (min-width: 0) {
     .instagram h2 {
       font-size: 1rem;
-      margin-bottom: 25px; } }
+      margin-bottom: 25px; }
+      .instagram h2 a {
+        color: #54585D; } }
   @media (min-width: 576px) {
     .instagram h2 {
       font-size: 1.625rem;

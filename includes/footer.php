@@ -37,7 +37,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="copy">
-					<p>&copy; 2020 Another You Permanent Cosmetics - Danette Proszek | <a href="contact-us">Contact</a> | Powered by: <a href="https://www.marctakeuchi.com" target="_blank" title="Bamboo Digital">bamboo digital</a></p>
+					<p>&copy; 2020 Another You Permanent Cosmetics - Danette Proszek | <a href="contact-us">Contact</a></p>
 				</div>
 			</div>
 		</div>

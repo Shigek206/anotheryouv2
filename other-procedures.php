@@ -3,21 +3,20 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<?php include 'includes/robots.php';?>
+	
 	<title>Other Permanent Cosmetic Procedures | Another You Permanent Cosmetics | Seattle Permanent Cosmetics Seattle, WA</title>
-	<meta NAME="description" CONTENT="">
+	<meta NAME="description" CONTENT="Other permanent cosmetic procedures include lip liner, areola repigmentation, beauty marks and corrections.">
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 
 	<link href="styles/style.css" rel="stylesheet" type="text/css" media="all" />
-
+	<?php include 'scripts/gtag.php';?>
 </head>
 
-<?php include 'includes/header.php';?>
-
 <body>
+<?php include 'includes/header.php';?>
 <section class="masthead masthead-secondary mh-bg-sub-liner">
 	<!-- <div class="container">
 		<div class="row">
@@ -55,16 +54,9 @@
 
 <?php include 'includes/testimonials-sub.php';?>
 
+<?php include 'includes/consult-main.php';?>
 
-<section class="instagram text-center">
-	<div class="container">
-		<div class="row">
-			<div class="col-12">
-				<h2>@danettepermanentcosmetics</h2>
-			</div>
-		</div>
-	</div>
-</section>
+<?php include 'includes/instagram-feed.php';?>
 
 <?php include 'includes/footer.php';?>
 	

@@ -3,16 +3,16 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<?php include 'includes/robots.php';?>
+	
 	<title>Another You Permanent Cosmetics | Seattle Permanent Cosmetics and Makeup Seattle, WA</title>
-	<meta NAME="description" CONTENT="">
+	<meta NAME="description" CONTENT="Another You specializes in permanent cosmetics and makeup which include eyebrows, eye liner, full lip color and phalloplasty medical tattooing in Seattle, WA">
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 
 	<link href="styles/style.css" rel="stylesheet" type="text/css" media="all" />
-
+	<?php include 'scripts/gtag.php';?>
 </head>
 
 <body>
@@ -60,7 +60,7 @@
 				</div>
 			</div>
 			<div class="col-12 col-sm-5 text-center">
-				<img src="istock/hp-intro-photo.png">
+				<img src="graphics/hp-spc.jpg">
 			</div>
 		</div>
 	</div>

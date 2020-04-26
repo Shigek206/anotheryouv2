@@ -34,7 +34,7 @@ h2 {
 h3 {
 	color: $header-color;
 	font-family: $font-family-sans-serif;
-	font-size: $h2-font-size;
+	font-size: $h4-font-size;
 	font-weight: $font-weight-med;
 	text-transform: uppercase;
 }
@@ -338,12 +338,16 @@ span {
 }
 
 .mh-bg-hp {
-	background-image: url('../istock/masthead-2020b.png');
+	background-image: url('../graphics/homepage-masthead.jpg');
 }
 
 .mh-bg-sub-1 {
-	background-image: url('../graphics/masthead-hp.png');
+	background-image: url('../graphics/default-masthead.jpg');
 	height: 300px;
+
+	@media (min-width: $screen-xs) {
+		background-position: 40%;
+	}
 }
 
 .mh-bg-sub-2 {
@@ -352,23 +356,39 @@ span {
 }
 
 .mh-bg-sub-brow {
-	background-image: url('../istock/eyebrow-masthead.png');
+	background-image: url('../graphics/eyebrows-masthead.jpg');
 	height: 300px;
+
+	@media (min-width: $screen-xs) {
+		background-position: 40%;
+	}
 }
 
 .mh-bg-sub-liner {
-	background-image: url('../istock/eyeliner-masthead.png');
+	background-image: url('../graphics/eyeliner-masthead.jpg');
 	height: 300px;
+
+	@media (min-width: $screen-xs) { 
+		background-position: 40%;
+	}
 }
 
 .mh-bg-sub-lip {
-	background-image: url('../istock/fulllip-masthead.png');
+	background-image: url('../graphics/fulllip-masthead.jpg');
 	height: 300px;
+
+	@media (min-width: $screen-xs) {
+		background-position: 50%;
+	}
 }
 
 .mh-bg-sub-phallus {
-	background-image: url('../istock/phallus-masthead.png');
+	background-image: url('../graphics/phallo-masthead.jpg');
 	height: 300px;
+
+	@media (min-width: $screen-xs) {
+		background-position: 50%;
+	}
 }
 
 
@@ -714,8 +734,6 @@ iframe {
 .testimonials {
 	padding: 70px 0;
 	position: relative;
-	background-size: cover;
-	background-repeat: no-repeat;
 
 	h2 {
 		margin: 0 0 25px;
@@ -724,24 +742,6 @@ iframe {
 		font-size: 1.2rem;
 		line-height: 28px;
 		margin-bottom: 20px;
-	}
-
-	@media (min-width: $screen-xs) {
-		background-image: none;
-		background-position: 80%;
-	}
-
-	@media (min-width: $screen-sm) {
-		background-image: url('../istock/testimonial-bg-3.png');
-		background-position: 100%;
-	}
-
-
-	.testimonial-bg {
-		// background-image: url('../istock/testimonial-bg.jpg');
-		// background-size: cover;
-		// background-repeat: no-repeat;
-		// background-position: 100%;
 	}
 }
 
@@ -825,6 +825,10 @@ iframe {
 		h2 {
 			font-size: 1rem;
 			margin-bottom: 25px;
+
+			a {
+				color: $body-color;
+			}
 		}
 	}
 

@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<?php include 'includes/robots.php';?>
+	
 	<title>Permanent Cosmetic and Makeup Procedures | Another You Permanent Cosmetics | Seattle Permanent Cosmetics and Makeup Seattle, WA</title>
 	<meta NAME="description" CONTENT="">
 
@@ -12,12 +12,11 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 
 	<link href="styles/style.css" rel="stylesheet" type="text/css" media="all" />
-
+	<?php include 'scripts/gtag.php';?>
 </head>
 
-<?php include 'includes/header.php';?>
-
 <body>
+<?php include 'includes/header.php';?>
 <section class="masthead masthead-secondary mh-bg-sub-brow">
 <!-- 	<div class="container">
 		<div class="row">
@@ -52,19 +51,11 @@
 
 <?php include 'includes/services-sub.php';?>
 
-
 <?php include 'includes/testimonials-sub.php';?>
 
+<?php include 'includes/consult-main.php';?>
 
-<section class="instagram text-center">
-	<div class="container">
-		<div class="row">
-			<div class="col-12">
-				<h2>@danettepermanentcosmetics</h2>
-			</div>
-		</div>
-	</div>
-</section>
+<?php include 'includes/instagram-feed.php';?>
 
 <?php include 'includes/footer.php';?>
 	

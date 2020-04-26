@@ -8,6 +8,7 @@
 <li>Lip Tint</li>
 <li>Lip Shade</li>
 <li>Blended Lip</li>
+<li>Blushed Lips</li>
 </ul>
 <h3>What Happens During the Procedure?</h3>
 <p>Before the procedure begins, I will draw in your lip line and balance out any differences between the sides of your mouth. Once I have drawn in the shape, then I will numb your lips. You should not feel the procedure at all.</p>
@@ -19,7 +20,7 @@
 <p>Although I like to see my clients 4 - 6 weeks after the procedure, lips usually heal very well and do not need further work. Years down the road the color will soften; the depth of color you choose at the beginning will determine how long your lips wil sustain the color.</p>
 
 <h3>FAQs About Permanent Full Lip Makeup</h3>
-<p><strong>Can I get permanent lip liner alones?</strong><br/>
+<p><strong>Can I get permanent lip liner alone?</strong><br/>
 I do not recommend doing lip liner alone as it generally gives the lips a clownish appearance.
 However if you have a minor scar that has caused loss of color in the lip line itself, then that
 area can be adjusted to blend in with the rest of the lip.</p>

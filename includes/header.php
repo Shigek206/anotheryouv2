@@ -1,7 +1,7 @@
 <?php include 'includes/consult-secondary.php';?>
 <nav class="navbar navbar-expand-sm fixed-top navbar-light">
 	<div class="container">
-		<a class="navbar-brand" href="/anotheryou"><img src="graphics/another-you-logo-2019.png"></a>
+		<a class="navbar-brand" href="/"><img src="graphics/another-you-logo-2019.png"></a>
 	  	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 	    <span class="navbar-toggler-icon"></span>
 	  	</button>

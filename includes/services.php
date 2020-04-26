@@ -9,7 +9,7 @@
 			<div class="col-12 col-sm-6">
 				<div class="service-cta">
 					<div class="service-img">
-						<img src="istock/eyebrow-2020.jpg">
+						<a href="permanent-eyebrows"><img src="graphics/hp-eyebrows.jpg" alt="Permanent Eyebrows"></a>
 					</div>
 					<div class="service-txt">
 						<h4>Eyebrow Revision</h4>
@@ -21,7 +21,7 @@
 			<div class="col-12 col-sm-6">
 				<div class="service-cta">
 					<div class="service-img">
-						<img src="istock/full-lip-2020.jpg">
+						<a href="permanent-full-lip-makeup"><img src="graphics/hp-lips.jpg" alt="Permanent Lips"></a>
 					</div>
 					<div class="service-txt">
 						<h4>Full Lip Color</h4>
@@ -33,7 +33,7 @@
 			<div class="col-12 col-sm-6">
 				<div class="service-cta">
 					<div class="service-img">
-						<img src="istock/eye-liner-2020.jpg">
+						<a href="permanent-eyeliner"><img src="graphics/hp-eyeliner.jpg" alt="Permanent Eyeliner"></a>
 					</div>
 					<div class="service-txt">
 						<h4>Permanant Eyeliner</h4>
@@ -45,7 +45,7 @@
 			<div class="col-12 col-sm-6">
 				<div class="service-cta">
 					<div class="service-img">
-						<img src="istock/phallus-hp3.jpg">
+						<a href="phalloplasty-medical-tattooing"><img src="graphics/hp-phalloplasty.jpg" alt="Plalloplasty Medical Tattooing"></a>
 					</div>
 					<div class="service-txt">
 						<h4>Phalloplasty Medical Tattooing</h4>

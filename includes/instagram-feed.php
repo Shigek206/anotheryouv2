@@ -3,7 +3,7 @@
 		<div class="accent"></div>
 		<div class="row">
 			<div class="col-12">
-				<h2>@danettepermanentcosmetics</h2>
+				<h2><a href="https://www.instagram.com/danettepermanentcosmetics/" target="_blank">@danettepermanentcosmetics</a></h2>
 			</div>
 		</div>
 		<div class="row">
