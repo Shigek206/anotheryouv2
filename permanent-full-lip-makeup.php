@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
 	<title>Permanent Full Lip Makeup, Lip Tint, Blushed Lips, Lip Shade, Blended Lip Seattle | Another You Permanent Cosmetics | Seattle Permanent Cosmetics and Makeup Seattle, WA</title>
-	<meta NAME="description" CONTENT="">
+	<meta NAME="description" CONTENT="Say goodbye to smudging, fading, streaking and flaking of lipstick and lip balm.">
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 

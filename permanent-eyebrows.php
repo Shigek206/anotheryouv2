@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
 	<title>Permanent Eyebrows, Microbladed Eyebrows, Feather Stroke Eyebrows, Ombre, Hair Stroke, Powder Fill | Another You Permanent Cosmetics | Seattle Permanent Cosmetics and Makeup Seattle, WA</title>
-	<meta NAME="description" CONTENT="Permanent eyebrows are created using the hairstroke method.">
+	<meta NAME="description" CONTENT="Permanent eyebrows can save you time and money on makeup but can also benefit men and women with medical conditions (alopecia) or hairloss from chemotherapys.">
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 

@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
 	<title>Phalloplasty Medical Tattooing | Another You Permanent Cosmetics | Seattle Permanent Cosmetics and Makeup Seattle, WA</title>
-	<meta NAME="description" CONTENT="">
+	<meta NAME="description" CONTENT="The beauty of tattooing the penis is that no one penis is the same, and we get to create the ideal one for you with our phalloplasty tattoo procedure.">
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
