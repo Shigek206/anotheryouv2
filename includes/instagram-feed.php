@@ -1,4 +1,4 @@
-<section class="instagram text-center">
+<section class="instagram text-center py-5">
 	<div class="container">
 		<div class="accent"></div>
 		<div class="row">

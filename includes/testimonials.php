@@ -1,4 +1,4 @@
-<section class="testimonials text-center">
+<section class="testimonials text-center py-5">
 	<div class="container">
 		<div class="accent prime"></div>
 		<div class="row">

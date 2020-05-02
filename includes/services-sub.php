@@ -1,4 +1,4 @@
-<section class="services-sub">
+<section class="services-sub py-5">
 	<div class="container">
 		<div class="row service-ttl">
 			<div class="col-12 text-center">

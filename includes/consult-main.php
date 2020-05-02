@@ -1,4 +1,4 @@
-<section class="contact-cta text-center">
+<section class="contact-cta text-center py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">

@@ -301,7 +301,6 @@ span {
 	h4 {
 		color: $primary;
 		font-family: $font-family-sans-serif;
-		margin-bottom: 2rem;
 	}
 
 	@media (min-width: $screen-xs) {
@@ -465,7 +464,6 @@ iframe {
 
 // ARTIST
 .artist {
-	padding: 35px 0;
 	background-image: url('../graphics/au-accent-bg.png');
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -541,7 +539,6 @@ iframe {
 
 // ABOUT
 .about {
-	padding: 35px 0;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 100%;
@@ -616,7 +613,6 @@ iframe {
 // SERVICES
 .services {
 	background-color: $bg-primary-color;
-	padding: 50px 0;
 
 	.row {
   		display: -webkit-flex;
@@ -692,7 +688,6 @@ iframe {
 // SERVICES SUB
 .services-sub {
 	background-color: $bg-accent-blue;
-	padding: 50px 0;
 
 	.service-ttl {
 		margin-bottom: 50px;
@@ -732,7 +727,6 @@ iframe {
 
 // TESTIMONIALS
 .testimonials {
-	padding: 70px 0;
 	position: relative;
 
 	h2 {
@@ -748,7 +742,6 @@ iframe {
 // CONSULTATION
 .consult-cta {
 	background-color: $bg-accent-green;
-	padding: 40px 0;
 
 	h2 {
 		color: $white;
@@ -814,7 +807,6 @@ iframe {
 
 // INSTAGRAM
 .instagram {
-	padding: 50px 0;
 	position: relative;
 
 	.accent {
@@ -844,7 +836,6 @@ iframe {
 
 .footer {
 	font-family: $font-family-sans-serif;
-	padding: 50px 0 0;
 
 	h3 {
 		margin-bottom: 20px;

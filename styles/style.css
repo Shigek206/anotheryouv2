@@ -212,8 +212,7 @@ span {
     letter-spacing: .5rem; }
   .masthead h4 {
     color: #54585D;
-    font-family: "Montserrat", sans-serif;
-    margin-bottom: 2rem; }
+    font-family: "Montserrat", sans-serif; }
   @media (min-width: 0) {
     .masthead {
       background-position: 90%;
@@ -321,7 +320,6 @@ iframe {
     margin-right: 15px; }
 
 .artist {
-  padding: 35px 0;
   background-image: url("../graphics/au-accent-bg.png");
   background-size: cover;
   background-repeat: no-repeat;
@@ -361,7 +359,6 @@ iframe {
       width: auto; } }
 
 .about {
-  padding: 35px 0;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 100%;
@@ -400,8 +397,7 @@ iframe {
       width: auto; } }
 
 .services {
-  background-color: #E1E8F0;
-  padding: 50px 0; }
+  background-color: #E1E8F0; }
   .services .row {
     display: -webkit-flex;
     display: flex;
@@ -447,8 +443,7 @@ iframe {
     margin-top: 25px; }
 
 .services-sub {
-  background-color: #73B7CC;
-  padding: 50px 0; }
+  background-color: #73B7CC; }
   .services-sub .service-ttl {
     margin-bottom: 50px; }
     .services-sub .service-ttl h2 {
@@ -469,7 +464,6 @@ iframe {
       margin-top: 0; } }
 
 .testimonials {
-  padding: 70px 0;
   position: relative; }
   .testimonials h2 {
     margin: 0 0 25px; }
@@ -479,8 +473,7 @@ iframe {
     margin-bottom: 20px; }
 
 .consult-cta {
-  background-color: #8DE0CD;
-  padding: 40px 0; }
+  background-color: #8DE0CD; }
   .consult-cta h2 {
     color: #fff;
     font-weight: 300;
@@ -523,7 +516,6 @@ iframe {
         font-size: 1rem; } }
 
 .instagram {
-  padding: 50px 0;
   position: relative; }
   .instagram .accent {
     background-image: url("../graphics/green2-accent.png"); }
@@ -539,8 +531,7 @@ iframe {
       margin-bottom: 50px; } }
 
 .footer {
-  font-family: "Montserrat", sans-serif;
-  padding: 50px 0 0; }
+  font-family: "Montserrat", sans-serif; }
   .footer h3 {
     margin-bottom: 20px; }
   .footer h5 {

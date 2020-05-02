@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
 	<title>Permanent Makeup Testimonials | Another You Permanent Cosmetics | Seattle Permanent Cosmetics and Makeup Seattle, WA</title>
-	<meta NAME="description" CONTENT="Here was our clients have to say about their tattoo experience and service from Another You.">
+	<meta NAME="description" CONTENT="Here what our clients have to say about their cosmetic tattoo experience and service from Another You.">
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 

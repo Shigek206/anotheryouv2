@@ -23,7 +23,7 @@
 		<div class="row">
 			<div class="col-md-7 offset-md-2">
 				<h3>From Ancient To Modern</h3>
-				<h4>Forever Timeless</h4>
+				<h4 class="mb-4">Forever Timeless</h4>
 				<a href="testimonials" title="Client Testimonials" class="btn btn-primary">Testimonials</a>
 				<a href="contact-us" title="Contact Us" class="btn btn-secondary">Schedule Consultation</a>
 			</div>
@@ -31,7 +31,7 @@
 	</div>
 </section>
 
-<section class="artist">
+<section class="artist py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 col-sm-5 text-center">
@@ -51,7 +51,7 @@
 
 <?php include 'includes/consult-main.php';?>
 
-<section class="about">
+<section class="about py-5">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 col-sm-7">
