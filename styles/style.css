@@ -133,8 +133,7 @@ span {
 
 .navbar {
   background-color: #fff;
-  padding: 0.5rem;
-  top: 2.7rem; }
+  top: 2.5rem; }
   @media (min-width: 0) {
     .navbar img {
       width: 80%; } }
@@ -142,8 +141,7 @@ span {
     .navbar img {
       width: 100%; } }
   .navbar .navbar-brand {
-    margin-right: 0;
-    padding: .3125rem; }
+    margin-right: 0; }
   .navbar .navbar-brand:hover {
     color: #fff; }
   .navbar .navbar-nav .nav-link {
@@ -276,6 +274,18 @@ span {
   @media (min-width: 0) {
     .mh-bg-sub-phallus {
       background-position: 50%; } }
+
+.covid {
+  background-color: #73B7CC; }
+  .covid h2 {
+    color: #fff; }
+  .covid p {
+    color: #fff; }
+  .covid a {
+    color: #fff;
+    text-decoration: underline; }
+    .covid a:hover {
+      color: #fff; }
 
 .intro {
   padding: 50px 0; }
@@ -484,7 +494,6 @@ iframe {
 
 .consult-cta-sub {
   background-color: #9068BE;
-  padding: 10px 0;
   position: fixed;
   top: 0;
   width: 100%;

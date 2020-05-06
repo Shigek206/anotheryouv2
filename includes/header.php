@@ -1,5 +1,5 @@
 <?php include 'includes/consult-secondary.php';?>
-<nav class="navbar navbar-expand-sm fixed-top navbar-light">
+<nav class="navbar navbar-expand-sm fixed-top navbar-light py-2">
 	<div class="container">
 		<a class="navbar-brand" href="/"><img src="graphics/another-you-logo-2019.png"></a>
 	  	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

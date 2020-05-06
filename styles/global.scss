@@ -167,8 +167,7 @@ span {
 
 .navbar {
 	background-color: $body-bg;
-	padding: 0.5rem;
-	top: 2.7rem;
+	top: 2.5rem;
 
 	@media (min-width: $screen-xs) {
 		img {
@@ -184,7 +183,7 @@ span {
 
 	.navbar-brand {
 		margin-right: 0;
-		padding: .3125rem;
+		// padding: .3125rem;
 	}
 	.navbar-brand:hover {
 		color: $white;
@@ -387,6 +386,27 @@ span {
 
 	@media (min-width: $screen-xs) {
 		background-position: 50%;
+	}
+}
+
+// COVID BANNER
+.covid {
+	background-color: $bg-accent-green2;
+
+	h2 {
+		color: $white;
+	}
+	p {
+		color: $white;
+	}
+
+	a {
+		color: $white;
+		text-decoration: underline;
+
+		&:hover {
+			color: $white;
+		}
 	}
 }
 
@@ -757,7 +777,6 @@ iframe {
 
 .consult-cta-sub {
 	background-color: $bg-accent-violet;
-	padding: 10px 0;
 	position: fixed;
 	top: 0;
 	width: 100%;
