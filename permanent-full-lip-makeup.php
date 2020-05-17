@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<?php include 'scripts/gtagmgr.php';?>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
@@ -16,6 +17,7 @@
 </head>
 
 <body>
+<?php include 'scripts/gtagmgr2.php';?>
 <?php include 'includes/header.php';?>
 <section class="masthead masthead-secondary mh-bg-sub-lip">
 	<!-- <div class="container">

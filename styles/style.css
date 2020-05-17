@@ -324,7 +324,7 @@ iframe {
     font-size: 1.125rem; }
     .contact-cta p a {
       color: #fff; }
-  .contact-cta .fab {
+  .contact-cta .fab, .contact-cta .fas {
     color: #fff;
     font-size: 2rem;
     margin-right: 15px; }

@@ -31,7 +31,7 @@
 				<a href="https://www.linkedin.com/in/danette-proszek-164865a/" target="_blank" title="Another You LinkedIn"><i class="fab fa-linkedin"></i></a> 
 
 				<a href="https://www.yelp.com/biz/another-you-permanent-cosmetics-seattle-2" target="_blank" title="Another You Reviews"><i class="fab fa-yelp"></i></a>
-				<h5><a href="tel:+1-206-354-0692">206.354.0692</a></h5>
+				<h5><a href="tel:+1-206-354-0692" class="soc-phone">206.354.0692</a></h5>
 			</div>
 		</div>
 		<div class="row">
